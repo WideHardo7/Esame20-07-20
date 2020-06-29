@@ -41,6 +41,11 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<dependency>
+			<groupId>com.restfb</groupId>
+			<artifactId>restfb</artifactId>
+			<version>3.7.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
